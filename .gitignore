@@ -109,6 +109,11 @@ dist
 /.pnp
 .pnp.js
 
+# assests
+/public/admin
+/public/admin/
+public/admin
+
 # testing
 /coverage
 
