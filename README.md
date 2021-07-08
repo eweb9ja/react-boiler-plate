@@ -29,8 +29,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
-# =======================================================
-# =======================================================
+### =============================================
 
 The React Boiler plate is created and upload by: eWeb9ja (http://www.eweb9ja.com)
 ### Developer: Christopher Okade E. (a.k.a: Israel Joshua C.)
