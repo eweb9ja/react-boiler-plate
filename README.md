@@ -31,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### =============================================
 
-The React Boiler plate is created and upload by: eWeb9ja (http://www.eweb9ja.com)
+This React Boiler plate (Frontend/Backend Templates) was created and uploaded by: eWeb9ja (http://www.eweb9ja.com)
 ### Developer: Christopher Okade E. (a.k.a: Israel Joshua C.)
 ### You hire me on Upwork for Python/Django, RESTful APIs, JavaScript Frameworks like VUE, Angular or React, Nodejs Jobs, etc.
 
