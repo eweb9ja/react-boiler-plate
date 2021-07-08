@@ -33,7 +33,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 This React Boiler plate (Frontend/Backend Templates) was created and uploaded by: eWeb9ja (http://www.eweb9ja.com)
 ### Developer: Christopher Okade E. (a.k.a: Israel Joshua C.)
-### You hire me on Upwork for Python/Django, RESTful APIs, JavaScript Frameworks like VUE, Angular or React, Nodejs Jobs, etc.
+### You can hire me on Upwork for Python/Django, RESTful APIs, JavaScript Frameworks like VUE, Angular or React, Nodejs Jobs, etc.
 
 ### Hire Me @ UpWork https://www.upwork.com/freelancers/~012de64eddf2663393
 ### Or Fiverr @ https://www.fiverr.com/ekesygroup
